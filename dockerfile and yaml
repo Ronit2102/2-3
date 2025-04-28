@@ -14,3 +14,6 @@ spec:
    image: nginx
    ports:
    - containerPort: 80
+
+
+https://chatgpt.com/share/680f0e23-a458-8000-a2fa-a89dcf05d0b8
